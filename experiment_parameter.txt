@@ -1,0 +1,36 @@
+preimage attack:
+
+p=18446744073709551557
+Fp=GF(p)
+security_level=32
+alpha=3
+m=3
+N=6
+
+
+CICO problem:
+
+1.
+p=18446744073709551557
+Fp=GF(p)
+security_level=32
+alpha=3
+m=3
+N=4
+
+2.
+p=18446744073709551557
+Fp=GF(p)
+security_level=32
+alpha=3
+alpha_1=inverse_mod(alpha,p-1)
+m=3
+N=5
+
+3.
+p=18446744073709551557
+Fp=GF(p)
+security_level=32
+alpha=3
+m=3
+N=6

@@ -1,5 +1,5 @@
 1. Grendel_improved_preimage_attack.ipynb
---The code to select 1000 elements randomly from F_p, and find their preimage respectively.
+--The code to perform 1000 tests for our second improved preimage attack.
 
 2. Grendel_CICO_problem.ipynb
 --The code to solve the CICO problem.
